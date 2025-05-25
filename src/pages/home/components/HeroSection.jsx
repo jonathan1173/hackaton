@@ -64,12 +64,13 @@ export default function HeroSection() {
                     </div>
                     <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
                   </div>
+                  {/* barritas */}
                   <div className="space-y-2 sm:space-y-3">
                     <div className="bg-white/20 h-2 sm:h-3 rounded-full overflow-hidden">
-                      <div className="bg-white h-full w-3/4 rounded-full animate-pulse"></div>
+                      <div className="bg-white h-full w-3/4 rounded-full expandir-izquierda delay-1"></div>
                     </div>
                     <div className="bg-white/20 h-2 sm:h-3 rounded-full overflow-hidden">
-                      <div className="bg-white h-full w-1/2 rounded-full animate-pulse"></div>
+                      <div className="bg-white h-full w-1/2 rounded-full expandir-izquierda delay-2"></div>
                     </div>
                   </div>
                 </div>

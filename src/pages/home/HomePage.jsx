@@ -1,5 +1,5 @@
 // src/pages/home/HomePage.jsx
-// import './styles.css'      // si necesitas estilos globales
+import './styles.css'      // si necesitas estilos globales
 import HeroSection        from './components/HeroSection'
 import ServicesSection    from './components/ServicesSection'
 import FeaturesSection    from './components/FeaturesSection'

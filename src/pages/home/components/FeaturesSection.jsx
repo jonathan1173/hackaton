@@ -54,17 +54,17 @@ export default function FeaturesSection() {
                         <span className="text-white font-bold text-sm sm:text-base">1,247</span>
                       </div>
                       <div className="bg-white/20 h-1 sm:h-2 rounded-full overflow-hidden">
-                        <div className="bg-green-400 h-full w-4/5 rounded-full"></div>
+                        <div className="bg-green-400 h-full w-4/5 rounded-full barraProgresoAnimada"></div>
                       </div>
                     </div>
 
                     <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3 sm:p-4">
                       <div className="flex items-center justify-between mb-2">
                         <span className="text-white text-xs sm:text-sm">Precisión Promedio</span>
-                        <span className="text-white font-bold text-sm sm:text-base">99.2%</span>
+                        <span className="text-white font-bold text-sm sm:text-base">95.2%</span>
                       </div>
                       <div className="bg-white/20 h-1 sm:h-2 rounded-full overflow-hidden">
-                        <div className="bg-blue-400 h-full w-full rounded-full"></div>
+                        <div className="bg-blue-400 h-full w-[95%] rounded-full"></div>
                       </div>
                     </div>
 
@@ -74,7 +74,7 @@ export default function FeaturesSection() {
                         <span className="text-white font-bold text-sm sm:text-base">2.3s</span>
                       </div>
                       <div className="bg-white/20 h-1 sm:h-2 rounded-full overflow-hidden">
-                        <div className="bg-purple-400 h-full w-1/4 rounded-full"></div>
+                        <div className="bg-amber-400 h-full w-1/4 rounded-full"></div>
                       </div>
                     </div>
                   </div>

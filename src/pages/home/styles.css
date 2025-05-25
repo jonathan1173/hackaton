@@ -1,0 +1,27 @@
+/* Hero section */
+@keyframes expandirIzquierda {
+
+    0%,
+    100% {
+        width: 70%;
+    }
+
+    50% {
+        width: 100%;
+    }
+}
+
+.expandir-izquierda {
+    animation: expandirIzquierda 5s ease-in-out infinite alternate;
+    transform-origin: left;
+    animation-fill-mode: backwards;
+}
+
+.delay-1 {
+    animation-delay: 0s;
+}
+
+.delay-2 {
+    animation-delay: .9s;
+}
+
