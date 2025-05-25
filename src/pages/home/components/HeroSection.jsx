@@ -38,7 +38,7 @@ export default function HeroSection() {
               {/* Stats */}
               <div className="grid grid-cols-3 gap-4 sm:gap-8 pt-6 sm:pt-8 max-w-md mx-auto lg:max-w-none">
                 <div className="text-center">
-                  <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900">99.2%</div>
+                  <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900">95.2%</div>
                   <div className="text-xs sm:text-sm text-gray-600">Precisión</div>
                 </div>
                 <div className="text-center">
